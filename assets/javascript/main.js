@@ -1,6 +1,8 @@
 function saludar(){
-console.log("hola,Mundo");
+console.log("Chaito,Mundo Cruel");
 
 }
+
+saludar();
 
 
